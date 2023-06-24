@@ -121,6 +121,7 @@ main h2 {
 
 main p {
     padding: 15px 0px;
+    font-size: 1em;
     text-align: justify;
     text-indent: 30px;
     line-height: 2em;
@@ -144,7 +145,7 @@ main a:hover {
     color: var(--cor4);
 }
 
- main article img {
+ main img {
     width: 100%;
 }
 
