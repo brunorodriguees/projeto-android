@@ -64,7 +64,9 @@ header > p {
     font-size: 1.2em;
     max-width: 600px;
     margin: auto;
-    padding: 0px 10px 50px 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.432);
 }
 
@@ -104,7 +106,6 @@ main h1 {
     font-size: 1.8em;
     color: var(--cor5);
     font-family: var(--font-android);
-    text-align: center;
 }
 
 main h2 {
